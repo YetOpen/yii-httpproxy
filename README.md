@@ -21,6 +21,7 @@ Put the extracted files in protected/modules/httpproxy then change your config l
             ...
             'httpproxy/*'=>'httpproxy',
             ...
+```
 
 Author
 ------
